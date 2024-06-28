@@ -1,0 +1,6 @@
+@Custor.Portal.Api_HostAddress = http://localhost:5237
+
+GET {{Custor.Portal.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
